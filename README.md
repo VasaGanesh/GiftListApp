@@ -21,15 +21,6 @@ Check out a visual demo of the app experience:
 
 ---
 
-## 📸 Static Screenshots
-
-### Dashboard View
-![Dashboard](screenshots/Dashboard.png)
-
-### Product Detail View
-![Story](screenshots/Story.png)
-
----
 
 ## 🛠️ Tech Stack
 
