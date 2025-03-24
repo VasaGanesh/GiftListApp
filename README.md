@@ -6,9 +6,9 @@ Welcome to **GiftListApp**, an intuitive Android application that helps users cr
 
 ## 🎬 App Demo (GIF)
 
-Check out a visual demo that represents the app experience:
+Check out a visual demo of the app experience:
 
-![App Demo](https://firebase.blog/images/posts/2016-12-15-building-a-nativescript-angular-2-mobile-app-using-firebase/firebase-nativescript-app.gif)
+![App Demo](AppDemo.gif)
 
 ---
 
